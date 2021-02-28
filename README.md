@@ -6,8 +6,7 @@
 
 ### Who We Are? 
 Creative Design Agency <br>
-Design, Develop and Innovate the Digital Space <br>
-Implementation of Most Advanced Cloud Technology <br>
+Deploy advanced Cloud Technology <br>
 Located in the City of Toronto, Ontario, Canada 
 
 ### What We Do?
