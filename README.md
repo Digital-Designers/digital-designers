@@ -2,7 +2,7 @@
 <p align="center"><img width="150" height="auto" src="https://www.digitaldesigners.ca/logo.png">
 </p>
 
-<p align="right"> Design, Develop and Innovate the Digital Space <p/>
+<p align="center"> Design, Develop and Innovate the Digital Space <p/>
 
 ### Who We Are? 
 Creative Design Agency <br>
