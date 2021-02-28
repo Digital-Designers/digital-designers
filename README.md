@@ -19,5 +19,5 @@ Resulting in thousands of inefficient sites with unlimited frustrations
 
 
 ### Learn More
-[Website](https://digitaldesigners.ca)•[Twitter](https://twitter.com/designbydigital)•[Facebook](https://facebook.com/designbydigital)•[LinkedIn](https://linkedin.com/company/designbydigital)•[Email](mailto:hello@digitaldesigners.ca)
+[Website](https://digitaldesigners.ca) | [Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) | [Email](mailto:hello@digitaldesigners.ca)
 
