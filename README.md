@@ -32,7 +32,7 @@ Reform the digital space one at a time
 
 ### Learn More
 #### Contact
-[Website](https://digitaldesigners.ca) | [Email](mailto:hello@digitaldesigners.ca)
+[Website](https://digitaldesigners.ca) | [Email](mailto:hello@digitaldesigners.ca) | [Instagram](https://instagram.com/designbydigital)
 
 #### Follow
 [Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) 
