@@ -17,13 +17,13 @@ Located in the City of Toronto, Ontario, Canada
 </details>
 <details>
 <summary>Creative Services</summary>
-SEO MARKETING
-CREATIVE WRITING
+*SEO MARKETING
+*CREATIVE WRITING
 </details>
 <details>
 <summary>Marketing Services</summary>
-DIGITAL PHOTOGRAPHY
-CORPORATE VIDEOGRAPHY
+*DIGITAL PHOTOGRAPHY
+*CORPORATE VIDEOGRAPHY
 </details>
 
 ### Why We Do?
