@@ -12,7 +12,7 @@ Located in the City of Toronto, Ontario, Canada
 Our creativity specializations are divided into six types of services
 
 
-### How We Do?
+### Why We Do?
 
 ### More Information
 [Website](https://digitaldesigners.ca) • [Twitter](https://twitter.com/designbydigital) • [Facebook](https://facebook.com/designbydigital) • [LinkedIn](https://linkedin.com/company/designbydigital) • [Email](mailto:hello@digitaldesigners.ca)
