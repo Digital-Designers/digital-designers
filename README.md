@@ -18,6 +18,6 @@ Anyone can build websites but not all are web engineers by default <br>
 Resulting in thousands of inefficient sites with unlimited frustrations
 
 
-### Learn More
+#### Learn More
 [Website](https://digitaldesigners.ca) | [Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) | [Email](mailto:hello@digitaldesigners.ca)
 
