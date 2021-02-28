@@ -30,6 +30,10 @@ Located in the City of Toronto, Ontario, Canada
 Too many websites, very little quality <br>
 Reform the digital space one at a time
 
-#### Learn More
-[Website](https://digitaldesigners.ca) | [Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) | [Email](mailto:hello@digitaldesigners.ca)
+### Learn More
+#### Contact
+[Website](https://digitaldesigners.ca) | [Email](mailto:hello@digitaldesigners.ca)
+
+#### Follow
+[Twitter](https://twitter.com/designbydigital) | [Facebook](https://facebook.com/designbydigital) | [LinkedIn](https://linkedin.com/company/designbydigital) 
 
