@@ -12,8 +12,8 @@ Located in the City of Toronto, Ontario, Canada
 ### What We Do?
 <details>
 <summary>Design Services</summary>
-LOGO DESIGN
-PORTFOLIO WEBSITE
+*LOGO DESIGN
+*PORTFOLIO WEBSITE
 </details>
 <details>
 <summary>Creative Services</summary>
