@@ -3,13 +3,10 @@
 
 ### Who We Are? 
 We are a Creative Design Agency <br>
-<details>
-<summary>"Bit More"</summary>
 On a Mission to Design, Develop and Innovate the Digital Space <br>
 Through the Implementation of Most Advanced Cloud Technology <br>
 Located in the City of Toronto, Ontario, Canada 
-</details>
-<br>
+
 
 ### What We Do?
 Our creativity specializations are divided into six types of services
