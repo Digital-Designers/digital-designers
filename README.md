@@ -1,5 +1,5 @@
 # DIGITAL DESIGNERS 
-<img align="center" width="300" height="auto" src="https://www.digitaldesigners.ca/logo.png">
+<img align="center" width="100" height="auto" src="https://www.digitaldesigners.ca/logo.png">
 
 ### Who We Are? 
 Creative Design Agency <br>
