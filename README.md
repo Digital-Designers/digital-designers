@@ -1,5 +1,7 @@
 # DIGITAL DESIGNERS 
-<p align="center"><img width="150" height="auto" src="https://www.digitaldesigners.ca/logo.png"></p>
+<p align="center"><img width="150" height="auto" src="https://www.digitaldesigners.ca/logo.png">
+### Design, Develop and Innovate the Digital Space
+</p>
 
 ### Who We Are? 
 Creative Design Agency <br>
