@@ -24,10 +24,6 @@ Located in the City of Toronto, Ontario, Canada
 * CORPORATE VIDEOGRAPHY
 </details>
 
-<br>
-<br>
-<br>
-
 ### Why We Do?
 Too many websites, very little quality <br>
 Reform the digital space one at a time
