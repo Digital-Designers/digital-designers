@@ -12,11 +12,17 @@ Located in the City of Toronto, Ontario, Canada
 ### What We Do?
 Our creativity specializations are divided into six types of services
 <details>
-<summary>Creative Services</summary>
+<summary>Design Services</summary>
 * LOGO DESIGN
 * PORTFOLIO WEBSITE
+</details>
+<details>
+<summary>Creative Services</summary>
 * SEO MARKETING
 * CREATIVE WRITING
+</details>
+<details>
+<summary>Marketing Services</summary>
 * DIGITAL PHOTOGRAPHY
 * CORPORATE VIDEOGRAPHY
 </details>
