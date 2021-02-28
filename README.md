@@ -1,5 +1,6 @@
 ## DIGITAL DESIGNERS 
 <img align="left" src="https://www.digitaldesigners.ca/logo.png">
+
 ### Who We are? 
 We are a Creative Design Agency <br>
 On a Mission to Design, Develop and Innovate the Digital Space <br>
