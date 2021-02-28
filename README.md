@@ -1,5 +1,5 @@
 # DIGITAL DESIGNERS 
-<p align="center"><img width="150" height="auto" src="https://www.digitaldesigners.ca/logo.png">
+<p align="center"><img width="250" height="auto" src="https://www.digitaldesigners.ca/logo.png">
 </p>
 
 <p align="center"> Design, Develop and Innovate the Digital Space <p/>
