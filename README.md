@@ -4,6 +4,7 @@
 * Through the Implementation of Most Advanced Cloud Technology
 * In Your Favorite City of Toronto, Ontario, Canada
 * www.digitaldesigners.ca
+* <img align="left" width="100" height="100" src="www.digitaldesigners.ca/logo.png">
 
 ### FEATURES & ESTIMATES
 Our creativity specializations are divided into six types of services. 
