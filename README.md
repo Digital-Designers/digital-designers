@@ -10,7 +10,6 @@ Located in the City of Toronto, Ontario, Canada
 
 
 ### What We Do?
-Our creativity specializations are divided into six types of services
 <details>
 <summary>Design Services</summary>
 * LOGO DESIGN
