@@ -1,5 +1,5 @@
 ## DIGITAL DESIGNERS 
-<img align="right" src="https://www.digitaldesigners.ca/logo.png">
+<img align="center" src="https://www.digitaldesigners.ca/logo.png">
 We are a Creative Design Agency <br>
 On a Mission to Design, Develop and Innovate the Digital Space <br>
 Through the Implementation of Most Advanced Cloud Technology <br>
