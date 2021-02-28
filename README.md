@@ -5,7 +5,7 @@
 We are a Creative Design Agency <br>
 On a Mission to Design, Develop and Innovate the Digital Space <br>
 Through the Implementation of Most Advanced Cloud Technology <br>
-In Your Favorite City of Toronto, Ontario, Canada <br>
+Located in the City of Toronto, Ontario, Canada <br>
 www.digitaldesigners.ca
 
 
