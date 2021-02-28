@@ -1,4 +1,4 @@
-# DIGITAL DESIGNERS 
+<center> # DIGITAL DESIGNERS </center>
 <p align="center"><img width="250" height="auto" src="https://www.digitaldesigners.ca/logo.png">
 </p>
 
