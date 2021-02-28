@@ -3,9 +3,9 @@
 
 
 ### Who We Are? 
-We are a Creative Design Agency <br>
-On a Mission to Design, Develop and Innovate the Digital Space <br>
-Through the Implementation of Most Advanced Cloud Technology <br>
+Creative Design Agency <br>
+Design, Develop and Innovate the Digital Space <br>
+Implementation of Most Advanced Cloud Technology <br>
 Located in the City of Toronto, Ontario, Canada 
 
 
@@ -27,8 +27,8 @@ Located in the City of Toronto, Ontario, Canada
 </details>
 
 ### Why We Do?
-Anyone can build websites but not all are web engineers by default <br>
-Resulting in thousands of inefficient sites with unlimited frustrations
+Too many websites, very little quality <br>
+Reform the digital space one at a time
 
 
 #### Learn More
