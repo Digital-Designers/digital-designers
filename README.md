@@ -1,10 +1,10 @@
 ## DIGITAL DESIGNERS 
 <img align="right" src="https://www.digitaldesigners.ca/logo.png">
-* We are a Creative Design Agency 
-* On a Mission to Design, Develop and Innovate the Digital Space
-* Through the Implementation of Most Advanced Cloud Technology
-* In Your Favorite City of Toronto, Ontario, Canada
-* www.digitaldesigners.ca
+We are a Creative Design Agency <br>
+On a Mission to Design, Develop and Innovate the Digital Space <br>
+Through the Implementation of Most Advanced Cloud Technology <br>
+In Your Favorite City of Toronto, Ontario, Canada <br>
+www.digitaldesigners.ca
 
 
 ### FEATURES & ESTIMATES
