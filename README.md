@@ -1,2 +1,5 @@
 ## DIGITAL DESIGNERS 
-### Creative Design Agency - Design, Develop &amp; Innovate the Digital Space
+### We are a Creative Design Agency 
+### On a Mission to Design, Develop and Innovate the Digital Space
+### Through the Implementation of Most Advanced Cloud Technology
+
