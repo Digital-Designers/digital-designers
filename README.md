@@ -14,7 +14,7 @@ Our creativity specializations are divided into six types of services
 
 ### Why We Do?
 
-<p align="center">
+
 ### Learn More
 [Website](https://digitaldesigners.ca) • [Twitter](https://twitter.com/designbydigital) • [Facebook](https://facebook.com/designbydigital) • [LinkedIn](https://linkedin.com/company/designbydigital) • [Email](mailto:hello@digitaldesigners.ca)
-</p>
+
